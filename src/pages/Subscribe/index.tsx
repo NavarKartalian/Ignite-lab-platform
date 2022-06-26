@@ -80,7 +80,7 @@ export function Subscribe() {
         </div>
       </div>
 
-      <img src="/src/assets/code-mockup.png" alt="code image" className="mt-10" />
+      <img src="/static/code-mockup.png" alt="code image" className="mt-10" />
     </div>
   );
 }
